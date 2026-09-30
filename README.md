@@ -26,6 +26,6 @@ Büyükyalı MTAL ödev
 
   Yazılım dünyasında en yaygın kullanılan numaralandırma formatı **v1.0.0** şeklindedir:
 
-  * İlk sayı (Ana Sürüm / Major):** Proje üzerinde temel, köklü ve büyük değişiklikler yapıldığında bu sayı artırılır.
-  * İkinci sayı (Yardımcı Sürüm / Minor):** Projeye yeni özellikler veya eklemeler yapıldığında bu sayı artırılır.
-  * Üçüncü sayı (Yama / Patch):** Sadece küçük hataların düzeltilmesi durumunda bu sayı artırılır.
+  * İlk sayı (Ana Sürüm / Major): Proje üzerinde temel, köklü ve büyük değişiklikler yapıldığında bu sayı artırılır.
+  * İkinci sayı (Yardımcı Sürüm / Minor): Projeye yeni özellikler veya eklemeler yapıldığında bu sayı artırılır.
+  * Üçüncü sayı (Yama / Patch): Sadece küçük hataların düzeltilmesi durumunda bu sayı artırılır.
