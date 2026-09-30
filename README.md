@@ -1,0 +1,2 @@
+# homework
+Büyükyalı MTAL ödev
